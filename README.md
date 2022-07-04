@@ -35,7 +35,7 @@ This is a very simple hassio plugin that ebnables you to run telegraf on your ha
 
 To Install this addon simply go to: Hassio->Addon-store.
 
-Then add https://github.com/Sabuto/hassio-repo in the add repository by URL box.
+Then add https://github.com/ragesaq/hassio-repo in the add repository by URL box.
 
 Scroll down to Rob's Repo and install Telegraf. Give it a few minutes to install and update.
 
@@ -178,9 +178,9 @@ SOFTWARE.
 [armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[commits-shield]: https://img.shields.io/github/commit-activity/y/sabuto/hassio-telegraf?style=plastic
-[commits]: https://github.com/sabuto/hassio-telegraf/commits/master
-[travis-shield]: https://img.shields.io/travis/sabuto/hassio-telegraf
-[releases-shield]: https://img.shields.io/github/v/release/sabuto/hassio-telegraf
-[releases]: https://github.com/sabuto/hassio-telegraf/releases
-[license-shield]: https://img.shields.io/github/license/sabuto/hassio-telegraf
+[commits-shield]: https://img.shields.io/github/commit-activity/y/ragesaq/hassio-telegraf?style=plastic
+[commits]: https://github.com/ragesaq/hassio-telegraf/commits/master
+[travis-shield]: https://img.shields.io/travis/ragesaq/hassio-telegraf
+[releases-shield]: https://img.shields.io/github/v/release/ragesaq/hassio-telegraf
+[releases]: https://github.com/ragesaq/hassio-telegraf/releases
+[license-shield]: https://img.shields.io/github/license/ragesaq/hassio-telegraf
